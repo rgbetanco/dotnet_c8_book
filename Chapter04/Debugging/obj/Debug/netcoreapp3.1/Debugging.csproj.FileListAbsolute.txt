@@ -1,0 +1,13 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\bin\Debug\netcoreapp3.1\Debugging.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Debugging\obj\Debug\netcoreapp3.1\Debugging.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Dumping.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\bin\Debug\netcoreapp3.1\SharpPad.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.csproj.CopyComplete
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Dumping\obj\Debug\netcoreapp3.1\Dumping.genruntimeconfig.cache

@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PeopleApp\\PeopleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PacktLibrary\\PacktLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+        "projectName": "PacktLibrary",
+        "projectPath": "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PacktLibrary\\PacktLibrary.csproj",
+        "packagesPath": "C:\\Users\\rgbet\\.nuget\\packages\\",
+        "outputPath": "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PacktLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rgbet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PeopleApp\\PeopleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+        "projectName": "PeopleApp",
+        "projectPath": "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+        "packagesPath": "C:\\Users\\rgbet\\.nuget\\packages\\",
+        "outputPath": "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PeopleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rgbet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PacktLibrary\\PacktLibrary.csproj": {
+                "projectPath": "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter06\\PacktLibrary\\PacktLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

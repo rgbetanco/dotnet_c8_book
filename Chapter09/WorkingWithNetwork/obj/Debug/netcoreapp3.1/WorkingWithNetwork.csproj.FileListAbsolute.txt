@@ -1,0 +1,13 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\bin\Debug\netcoreapp3.1\WorkingWithNetwork.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter09\WorkingWithNetwork\obj\Debug\netcoreapp3.1\WorkingWithNetwork.genruntimeconfig.cache

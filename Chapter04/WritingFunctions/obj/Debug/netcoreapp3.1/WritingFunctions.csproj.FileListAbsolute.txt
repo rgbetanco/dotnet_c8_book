@@ -1,0 +1,13 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\bin\Debug\netcoreapp3.1\WritingFunctions.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter04\WritingFunctions\obj\Debug\netcoreapp3.1\WritingFunctions.genruntimeconfig.cache

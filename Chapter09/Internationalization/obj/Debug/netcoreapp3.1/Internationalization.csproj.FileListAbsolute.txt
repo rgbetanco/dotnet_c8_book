@@ -1,0 +1,13 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\bin\Debug\netcoreapp3.1\Internationalization.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter09\Internationalization\obj\Debug\netcoreapp3.1\Internationalization.genruntimeconfig.cache

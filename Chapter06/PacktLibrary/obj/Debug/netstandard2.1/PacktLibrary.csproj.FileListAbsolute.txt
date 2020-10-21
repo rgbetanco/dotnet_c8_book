@@ -1,0 +1,9 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter06\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter06\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter06\PacktLibrary\bin\Debug\netstandard2.1\PacktLibrary.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter06\PacktLibrary\obj\Debug\netstandard2.1\PacktLibrary.pdb

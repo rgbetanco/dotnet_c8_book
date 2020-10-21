@@ -1,0 +1,13 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\bin\Debug\netcoreapp3.1\Recursion.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\bin\Debug\netcoreapp3.1\Recursion.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\bin\Debug\netcoreapp3.1\Recursion.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\bin\Debug\netcoreapp3.1\Recursion.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\bin\Debug\netcoreapp3.1\Recursion.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\obj\Debug\netcoreapp3.1\Recursion.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\obj\Debug\netcoreapp3.1\Recursion.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\obj\Debug\netcoreapp3.1\Recursion.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\obj\Debug\netcoreapp3.1\Recursion.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\obj\Debug\netcoreapp3.1\Recursion.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter04\Recursion\obj\Debug\netcoreapp3.1\Recursion.genruntimeconfig.cache
