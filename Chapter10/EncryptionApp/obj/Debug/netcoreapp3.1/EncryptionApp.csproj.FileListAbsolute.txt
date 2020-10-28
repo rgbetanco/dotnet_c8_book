@@ -1,0 +1,16 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csproj.CopyComplete
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter10\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.genruntimeconfig.cache

@@ -7,6 +7,9 @@
 		{
 			"name": "Chapter09",
 			"path": "Chapter09"
+		},
+		{
+			"path": "Chapter10"
 		}
 	],
 	"settings": {}

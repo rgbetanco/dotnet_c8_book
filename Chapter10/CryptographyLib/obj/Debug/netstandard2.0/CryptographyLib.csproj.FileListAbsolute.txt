@@ -1,0 +1,9 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter10\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter10\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\CryptographyLib\bin\Debug\netstandard2.0\CryptographyLib.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\CryptographyLib\obj\Debug\netstandard2.0\CryptographyLib.pdb
