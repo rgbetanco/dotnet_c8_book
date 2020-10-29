@@ -1,0 +1,16 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\SigningApp.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.csproj.CopyComplete
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SigningApp\obj\Debug\netcoreapp3.1\SigningApp.genruntimeconfig.cache
