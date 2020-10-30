@@ -49,7 +49,7 @@ namespace CryptographyLib
             }
             return Encoding.Unicode.GetString(plainBytes);
         }
-        public static User Register(string username, string password){
+        public static User Register(string username, string password, string[] roles){
             //generate a random salt
             var rng = RandomNumberGenerator.Create();
             var saltBytes = new byte[16];
@@ -58,11 +58,21 @@ namespace CryptographyLib
             //generate the salted and hashed password
             var saltedhashedPassword = SaltAndHashPassword(password, saltText);
             var user = new User {
-                Name = username, Salt = saltText, SaltedHashedPassword = saltedhashedPassword
+                Name = username, Salt = saltText, 
+                SaltedHashedPassword = saltedhashedPassword,
+                Roles = roles
             };
             Users.Add(user.Name, user);
             return user;
         }
+        public static void LogIn(string username, string password){
+            if(CheckPassword(username, password)){
+                var identity = new GenericIdentity(username, "PackAuth");
+                var principal = new GenericPrincipal(identity, Users[username].Roles);
+                System.Threading.Thread.CurrentPrincipal = principal; 
+            }
+        }
+        
         public static bool CheckPassword(string username, string password){
             if(!Users.ContainsKey(username)){
                 return false;
