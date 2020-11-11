@@ -14,6 +14,14 @@ namespace EncryptionApp
             WriteLine(resE);
             var resD = Protector.Decrypt(resE, password);
             WriteLine(resD);
+            byte[] randomBytes = Protector.GetRandomKeyOrIV(256);
+            WriteLine($"Key as byte array");
+            for (int i = 0; i < randomBytes.Length; i++)
+            {
+                Write($"{randomBytes[i]:x2} ");
+                if(((i+1)%16) == 0)WriteLine();
+            }
+            WriteLine();
         }
     }
 }

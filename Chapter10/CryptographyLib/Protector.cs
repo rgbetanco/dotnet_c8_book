@@ -49,7 +49,15 @@ namespace CryptographyLib
             }
             return Encoding.Unicode.GetString(plainBytes);
         }
-        public static User Register(string username, string password, string[] roles){
+        
+        public static byte[] GetRandomKeyOrIV(int size) { 
+            var r = RandomNumberGenerator.Create();  
+            var data = new byte[size]; 
+            r.GetNonZeroBytes(data);
+            return data;
+        }
+
+        public static User Register(string username, string password, string[] roles = null){
             //generate a random salt
             var rng = RandomNumberGenerator.Create();
             var saltBytes = new byte[16];
@@ -67,7 +75,7 @@ namespace CryptographyLib
         }
         public static void LogIn(string username, string password){
             if(CheckPassword(username, password)){
-                var identity = new GenericIdentity(username, "PackAuth");
+                var identity = new GenericIdentity(username, "PacktAuth");
                 var principal = new GenericPrincipal(identity, Users[username].Roles);
                 System.Threading.Thread.CurrentPrincipal = principal; 
             }

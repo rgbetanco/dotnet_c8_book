@@ -1,0 +1,16 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\bin\Debug\netcoreapp3.1\SacureApp.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\bin\Debug\netcoreapp3.1\SacureApp.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\bin\Debug\netcoreapp3.1\SacureApp.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\bin\Debug\netcoreapp3.1\SacureApp.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\bin\Debug\netcoreapp3.1\SacureApp.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\bin\Debug\netcoreapp3.1\SacureApp.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\bin\Debug\netcoreapp3.1\CryptographyLib.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\bin\Debug\netcoreapp3.1\CryptographyLib.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\obj\Debug\netcoreapp3.1\SacureApp.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\obj\Debug\netcoreapp3.1\SacureApp.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\obj\Debug\netcoreapp3.1\SacureApp.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\obj\Debug\netcoreapp3.1\SacureApp.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\obj\Debug\netcoreapp3.1\SacureApp.csproj.CopyComplete
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\obj\Debug\netcoreapp3.1\SacureApp.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\obj\Debug\netcoreapp3.1\SacureApp.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter10\SacureApp\obj\Debug\netcoreapp3.1\SacureApp.genruntimeconfig.cache
