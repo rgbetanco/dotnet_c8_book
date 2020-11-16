@@ -14,7 +14,8 @@ namespace LinqWithObjects
         static void LinqWithArrayOfStrings(){
             var names = new string[]{"Michael","Pam","Jim","Dwight","Angela","Kevin","Toby","Creed"};
             //var query = names.Where(new Func<string, bool>(NameLongerThanFour));
-            var query = names.Where(NameLongerThanFour);
+            //var query = names.Where(NameLongerThanFour);
+            var query = names.Where(name => name.Length > 4);
             foreach (string item in query)
             {
                 WriteLine(item);
