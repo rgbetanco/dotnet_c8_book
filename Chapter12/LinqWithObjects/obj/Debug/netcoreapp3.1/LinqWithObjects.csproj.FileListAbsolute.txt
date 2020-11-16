@@ -1,0 +1,13 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\bin\Debug\netcoreapp3.1\LinqWithObjects.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter12\LinqWithObjects\obj\Debug\netcoreapp3.1\LinqWithObjects.genruntimeconfig.cache
