@@ -31,9 +31,9 @@ namespace WorkWithEFCore
             };
         }
         public void Log<TState>(LogLevel logLevel, EventId eventId, TState state, Exception exception, Func<TState, Exception, string> formatter){
-            //if (eventId.Id == 20100){
+            if (eventId.Id == 20101){
                 //log the level and the event identifier
-                Write($"Level: {logLevel}, Event ID: {eventId}");
+                Write($"Level: {logLevel}, Event ID: {eventId.Id}");
                 //Only output the state or the exception if they exist
                 if(state != null){
                     Write($"State: {state}");
@@ -42,7 +42,7 @@ namespace WorkWithEFCore
                     Write($"Exception: {exception.Message}");
                 }
                 WriteLine();
-            //}
+            }
         }
     }
 }

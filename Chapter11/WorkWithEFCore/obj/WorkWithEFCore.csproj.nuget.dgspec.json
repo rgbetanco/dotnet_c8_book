@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ronaldgarcia/Documents/dotnet/dotnet_c8_book/dotnet_c8_book/Chapter11/WorkWithEFCore/WorkWithEFCore.csproj": {}
+    "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter11\\WorkWithEFCore\\WorkWithEFCore.csproj": {}
   },
   "projects": {
-    "/Users/ronaldgarcia/Documents/dotnet/dotnet_c8_book/dotnet_c8_book/Chapter11/WorkWithEFCore/WorkWithEFCore.csproj": {
+    "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter11\\WorkWithEFCore\\WorkWithEFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ronaldgarcia/Documents/dotnet/dotnet_c8_book/dotnet_c8_book/Chapter11/WorkWithEFCore/WorkWithEFCore.csproj",
+        "projectUniqueName": "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter11\\WorkWithEFCore\\WorkWithEFCore.csproj",
         "projectName": "WorkWithEFCore",
-        "projectPath": "/Users/ronaldgarcia/Documents/dotnet/dotnet_c8_book/dotnet_c8_book/Chapter11/WorkWithEFCore/WorkWithEFCore.csproj",
-        "packagesPath": "/Users/ronaldgarcia/.nuget/packages/",
-        "outputPath": "/Users/ronaldgarcia/Documents/dotnet/dotnet_c8_book/dotnet_c8_book/Chapter11/WorkWithEFCore/obj/",
+        "projectPath": "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter11\\WorkWithEFCore\\WorkWithEFCore.csproj",
+        "packagesPath": "C:\\Users\\rgbet\\.nuget\\packages\\",
+        "outputPath": "C:\\Dotnet\\Rgbetanco\\Repos\\Chapter11\\WorkWithEFCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/ronaldgarcia/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\rgbet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -59,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
