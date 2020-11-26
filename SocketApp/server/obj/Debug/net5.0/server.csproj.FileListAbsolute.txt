@@ -1,0 +1,16 @@
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\bin\Debug\net5.0\server.exe
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\bin\Debug\net5.0\server.deps.json
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\bin\Debug\net5.0\server.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\bin\Debug\net5.0\server.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\bin\Debug\net5.0\server.dll
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\bin\Debug\net5.0\ref\server.dll
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\bin\Debug\net5.0\server.pdb
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\obj\Debug\net5.0\server.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\obj\Debug\net5.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\obj\Debug\net5.0\server.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\obj\Debug\net5.0\server.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\obj\Debug\net5.0\server.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\obj\Debug\net5.0\server.dll
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\obj\Debug\net5.0\ref\server.dll
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\obj\Debug\net5.0\server.pdb
+C:\Dotnet\Rgbetanco\Repos\SocketApp\server\obj\Debug\net5.0\server.genruntimeconfig.cache

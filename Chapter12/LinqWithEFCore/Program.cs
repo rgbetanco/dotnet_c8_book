@@ -10,21 +10,31 @@ namespace LinqWithEFCore
         static void Main(string[] args)
         {
             //FilterAndSort();
-            JoinCategoriesAndProducts();
+            //JoinCategoriesAndProducts();
             //GroupJoinCategoriesAndProducts();
             //AggregateProducts();
+            CustomExtensionMethods();
         }
         static void FilterAndSort()
         {
             using (var db = new Northwind()){
-                var query = db.Products.AsEnumerable()
-                    .Where(p => p.UnitPrice > 10M)
-                    .OrderByDescending(p => p.ProductName)
-                    .Select(p => new {
-                        p.ProductID,
-                        p.ProductName,
-                        p.UnitPrice
+                var query = db.Products
+                    .ProcessSequence()
+                    .Where(product => product.UnitPrice < 10M)
+                    .OrderByDescending(product => product.UnitPrice)
+                    .Select(product => new {
+                        product.ProductID,
+                        product.ProductName,
+                        product.UnitPrice
                     });
+                // var query = db.Products.AsEnumerable()
+                //     .Where(p => p.UnitPrice > 10M)
+                //     .OrderByDescending(p => p.ProductName)
+                //     .Select(p => new {
+                //         p.ProductID,
+                //         p.ProductName,
+                //         p.UnitPrice
+                //     });
                 WriteLine("Products that cost less than $10:");
                 foreach (var item in query)
                 {
@@ -108,6 +118,22 @@ namespace LinqWithEFCore
                     arg0: "Value of units in stock:",
                     arg1: db.Products.AsEnumerable().Sum(p=>p.UnitPrice*p.UnitsInStock)
                 );
+            }
+        }
+        static void CustomExtensionMethods(){
+            using(var db = new Northwind()) {
+                WriteLine("Mean units in stock: {0:N0}",
+                    db.Products.Average(p=>p.UnitsInStock));
+                WriteLine("Mean unit price: {0:$#,##0.00}",
+                    db.Products.AsEnumerable().Average(p=>p.UnitPrice));
+                WriteLine("Median units in stock:{0:N0}",
+                    db.Products.Median(p=>p.UnitsInStock));
+                WriteLine("Median unit price: {0:$#,##0.00}",
+                    db.Products.AsEnumerable().Median(p=>p.UnitPrice));
+                WriteLine("Mode units in stock:{0:N0}",
+                    db.Products.Mode(p=>p.UnitsInStock));
+                WriteLine("Mode unit price: {0:$#,##0.00}",
+                    db.Products.AsEnumerable().Mode(p=>p.UnitPrice));
             }
         }
     }
