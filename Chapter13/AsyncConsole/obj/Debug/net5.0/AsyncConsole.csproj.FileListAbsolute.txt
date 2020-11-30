@@ -1,0 +1,16 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\bin\Debug\net5.0\ref\AsyncConsole.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\bin\Debug\net5.0\AsyncConsole.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\obj\Debug\net5.0\ref\AsyncConsole.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter13\AsyncConsole\obj\Debug\net5.0\AsyncConsole.genruntimeconfig.cache
