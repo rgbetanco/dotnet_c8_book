@@ -9,6 +9,26 @@ namespace MonitoringApp
     {
         static void Main(string[] args)
         {
+            int[] numbers = Enumerable.Range(1, 50_000).ToArray();
+            Recorder.Start();
+            WriteLine("Using string with +");
+            string s = "";
+            for(int i = 0; i < numbers.Length; i++){
+                s += numbers[i] + ",";
+            }
+            Recorder.Stop();
+            Recorder.Start();
+            WriteLine("Using StringBuilder");
+            var builder = new System.Text.StringBuilder();
+            for(int i = 0; i < numbers.Length; i++){
+                builder.Append(numbers[i]);
+                builder.Append(",");
+            }
+            Recorder.Stop();
+        }
+
+        static void MonitorArrayOfInt()
+        {
             WriteLine("Processing. Please wait...");
             Recorder.Start();
             // simulate a process that requires some memory resources..

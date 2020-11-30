@@ -1,0 +1,16 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\ref\SynchronizingResourceAccess.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\bin\Debug\net5.0\SynchronizingResourceAccess.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\ref\SynchronizingResourceAccess.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter13\SynchronizingResourceAccess\obj\Debug\net5.0\SynchronizingResourceAccess.genruntimeconfig.cache

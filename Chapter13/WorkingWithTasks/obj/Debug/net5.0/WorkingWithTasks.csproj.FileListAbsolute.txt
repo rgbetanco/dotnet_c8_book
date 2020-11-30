@@ -1,0 +1,16 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\bin\Debug\net5.0\ref\WorkingWithTasks.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\bin\Debug\net5.0\WorkingWithTasks.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\obj\Debug\net5.0\ref\WorkingWithTasks.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter13\WorkingWithTasks\obj\Debug\net5.0\WorkingWithTasks.genruntimeconfig.cache

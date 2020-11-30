@@ -1,0 +1,16 @@
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.exe
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.deps.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.runtimeconfig.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.runtimeconfig.dev.json
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\ref\NestedAndChildTasks.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\bin\Debug\net5.0\NestedAndChildTasks.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\ref\NestedAndChildTasks.dll
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.pdb
+C:\Dotnet\Rgbetanco\Repos\Chapter13\NestedAndChildTasks\obj\Debug\net5.0\NestedAndChildTasks.genruntimeconfig.cache
