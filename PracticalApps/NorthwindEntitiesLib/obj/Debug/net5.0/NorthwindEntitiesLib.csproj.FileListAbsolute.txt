@@ -1,0 +1,12 @@
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\bin\Debug\net5.0\NorthwindEntitiesLib.deps.json
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\bin\Debug\net5.0\NorthwindEntitiesLib.dll
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\bin\Debug\net5.0\ref\NorthwindEntitiesLib.dll
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\bin\Debug\net5.0\NorthwindEntitiesLib.pdb
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.dll
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\ref\NorthwindEntitiesLib.dll
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindEntitiesLib\obj\Debug\net5.0\NorthwindEntitiesLib.pdb

@@ -4,6 +4,7 @@ using System.Net;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading; 
+using System.Collections;
 
 // State object for receiving data from remote device.  
 public class StateObject {  
@@ -154,10 +155,116 @@ public class AsynchronousClient {
         } catch (Exception e) {  
             Console.WriteLine(e.ToString());  
         }  
-    }  
+    } 
+
+    public class DA11Model {
+        static int MSG_IN_TOTAL_LENGTH_SIZE = 5;
+        static int MSG_IN_FILLER_SIZE = 10;
+        public BitArray MSG_IN_TOTAL_LENGTH = new BitArray(MSG_IN_TOTAL_LENGTH_SIZE);
+        public BitArray MSG_IN_FILLER = new BitArray(MSG_IN_FILLER_SIZE);
+        public BitArray MSG_IN_HEADER = new BitArray(MSG_IN_TOTAL_LENGTH_SIZE + MSG_IN_FILLER_SIZE);
+        public BitArray MSG_IN_BODY = new BitArray(600);
+        public BitArray MSG_PACKAGE = new BitArray(4096);
+        public BitArray Append(BitArray current, BitArray after) 
+        {
+            var bools = new bool[current.Count + after.Count];
+            current.CopyTo(bools, 0);
+            after.CopyTo(bools, current.Count);
+            return new BitArray(bools);
+        }
+        public void FromIntToBitArray(int numeral, ref BitArray bt) 
+        {
+            BitArray nbt = ToBinary(numeral);
+            for (int i = 0; i < bt.Length; i++){
+                bt.Set(i, nbt[i]);
+            }
+        }
+        public BitArray ToBinary(int numeral)
+        {
+            return new BitArray(new[] { numeral });
+        }
+
+        public int ToNumeral(BitArray binary)
+        {
+            if (binary == null)
+                throw new ArgumentNullException("binary");
+            if (binary.Length > 32)
+                throw new ArgumentException("must be at most 32 bits long");
+
+            var result = new int[1];
+            binary.CopyTo(result, 0);
+            return result[0];
+        }
+        public byte ToByte(BitArray binary){
+            if (binary == null)
+                throw new ArgumentNullException("binary");
+            if (binary.Length > 8)
+                throw new ArgumentException("must be at most 8 bits long");
+
+            var result = new byte[1];
+            binary.CopyTo(result, 0);
+            return result[0];
+        }
+        public void UsingBitArray()
+        {
+            DA11Model da11 = new DA11Model();
+        
+            da11.FromIntToBitArray(3, ref da11.MSG_IN_TOTAL_LENGTH);
+
+            for (int i = 0; i < da11.MSG_IN_TOTAL_LENGTH.Count; i++) {
+                Console.Write("{0, -6} ", da11.MSG_IN_TOTAL_LENGTH[i]);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine(da11.ToNumeral(da11.MSG_IN_TOTAL_LENGTH));
+
+            da11.FromIntToBitArray(5, ref da11.MSG_IN_FILLER);
+
+            for (int i = 0; i < da11.MSG_IN_FILLER.Count; i++) {
+                Console.Write("{0, -6} ", da11.MSG_IN_FILLER[i]);
+            }
+
+            Console.WriteLine();
+
+            da11.MSG_IN_HEADER = da11.Append(da11.MSG_IN_TOTAL_LENGTH, da11.MSG_IN_FILLER);
+            for (int i = da11.MSG_IN_HEADER.Count - 1; i >= 0; i--) {
+                Console.Write("{0, -6} ", da11.MSG_IN_HEADER[i]);
+            }
+
+            Console.WriteLine();
+            Console.WriteLine(da11.ToNumeral(da11.MSG_IN_HEADER));
+
+            da11.MSG_PACKAGE = da11.Append(da11.MSG_IN_HEADER, da11.MSG_IN_BODY);
+
+            byte[] package = new byte[128];
+            int k = 0;
+            for (int i = 0; i < package.Length; i++) {
+                BitArray pk = new BitArray(8);
+                for (int j = 0; j < 8; j++){
+                    try {
+                        pk[j] = da11.MSG_PACKAGE[k + j];
+                    } catch (ArgumentOutOfRangeException e) {
+                        pk[j] = false;
+                    }
+                }
+                k += 8;
+                package[i] = da11.ToByte(pk);
+            }
+
+            Console.WriteLine();
+            for (int l = 0; l < package.Length; l++)
+            {
+                Console.Write("{0:X} ",package[l]);    
+            }
+            Console.WriteLine();
+            
+        }
+    }
   
-    public static int Main(String[] args) {  
-        StartClient();  
+    public static int Main(String[] args) { 
+        DA11Model da11 = new DA11Model();
+        da11.UsingBitArray();
+//        StartClient();  
         return 0;  
     }  
 }  

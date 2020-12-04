@@ -1,0 +1,15 @@
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindContextLib.deps.json
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindContextLib.dll
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\ref\NorthwindContextLib.dll
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindContextLib.pdb
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.csprojAssemblyReference.cache
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.AssemblyInfoInputs.cache
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.AssemblyInfo.cs
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.csproj.CoreCompileInputs.cache
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.dll
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\ref\NorthwindContextLib.dll
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.pdb
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindEntitiesLib.dll
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\bin\Debug\net5.0\NorthwindEntitiesLib.pdb
+C:\Dotnet\Rgbetanco\Repos\PracticalApps\NorthwindContextLib\obj\Debug\net5.0\NorthwindContextLib.csproj.CopyComplete
