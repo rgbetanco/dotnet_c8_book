@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {}
+    "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {}
   },
   "projects": {
-    "C:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
+    "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+        "projectUniqueName": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
         "projectName": "NorthwindEntitiesLib",
-        "projectPath": "C:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+        "projectPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
         "packagesPath": "C:\\Users\\rgbet\\.nuget\\packages\\",
-        "outputPath": "C:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\obj\\",
+        "outputPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rgbet\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1016,11 +1016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
+      "projectUniqueName": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
       "projectName": "NorthwindEmployees",
-      "projectPath": "C:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
+      "projectPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
       "packagesPath": "C:\\Users\\rgbet\\.nuget\\packages\\",
-      "outputPath": "C:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\obj\\",
+      "outputPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rgbet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1037,8 +1037,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
-              "projectPath": "C:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
+            "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
+              "projectPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
             }
           }
         }
