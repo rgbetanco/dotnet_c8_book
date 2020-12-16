@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindWeb\\NorthwindWeb.csproj": {}
+    "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindMvc\\NorthwindMvc.csproj": {}
   },
   "projects": {
     "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
@@ -68,67 +68,6 @@
         }
       }
     },
-    "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
-        "projectName": "NorthwindEmployees",
-        "projectPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj",
-        "packagesPath": "C:\\Users\\rgbet\\.nuget\\packages\\",
-        "outputPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\rgbet\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net5.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
-            "projectReferences": {
-              "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
-                "projectPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -183,14 +122,14 @@
         }
       }
     },
-    "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindWeb\\NorthwindWeb.csproj": {
+    "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindMvc\\NorthwindMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindWeb\\NorthwindWeb.csproj",
-        "projectName": "NorthwindWeb",
-        "projectPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindWeb\\NorthwindWeb.csproj",
+        "projectUniqueName": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindMvc\\NorthwindMvc.csproj",
+        "projectName": "NorthwindMvc",
+        "projectPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindMvc\\NorthwindMvc.csproj",
         "packagesPath": "C:\\Users\\rgbet\\.nuget\\packages\\",
-        "outputPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindWeb\\obj\\",
+        "outputPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rgbet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -209,9 +148,6 @@
             "projectReferences": {
               "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj": {
                 "projectPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindContextLib\\NorthwindContextLib.csproj"
-              },
-              "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj": {
-                "projectPath": "c:\\Dotnet\\Rgbetanco\\Repos\\PracticalApps\\NorthwindEmployees\\NorthwindEmployees.csproj"
               }
             }
           }
@@ -225,6 +161,28 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
